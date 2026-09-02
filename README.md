@@ -143,7 +143,7 @@ The app opens at `http://localhost:8501`. Upload a JPG, JPEG, PNG, or WEBP image
 
 **Prediction Preview**
 
-![Prediction Preview](preview/prediction-preview.png)
+![Prediction Preview](preview/prediction_preview.png)
 
 - The model recognizes **only the five tr- Predictions below 60% confidence trigger an on-screen warning and should be treated as inconclusive.
 - Images containing multiple dishes are not supported — the model produces a single label per image.
