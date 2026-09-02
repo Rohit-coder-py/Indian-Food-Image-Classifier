@@ -123,7 +123,6 @@ streamlit run app.py
 
 
 
-https://github.com/user-attachments/assets/bfda6ec6-f2a6-4fb9-8210-23fd15b29670
 
 
 
