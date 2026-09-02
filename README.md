@@ -137,11 +137,11 @@ The app opens at `http://localhost:8501`. Upload a JPG, JPEG, PNG, or WEBP image
 
 ## 📸 Screenshots
 
-**Homepage**
+<strong>**Homepage**
 
 ![Homepage](preview/homepage.png)
 
-**Prediction Preview**
+<strong><mark>**Prediction Preview**</strong></mark>
 
 ![Prediction Preview](preview/prediction_preview.png)
 
